@@ -1,0 +1,11 @@
+.idea/
+venv/
+app/entrypoint.sh
+app/entrypoint.prod.sh
+.env.prod
+.env.prod.db
+app/db.sqlite3
+app/accounts/migrations
+app/posts/migrations
+app/Dockerfile.prod
+app/my_data.json
